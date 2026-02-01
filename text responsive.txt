@@ -51,7 +51,7 @@ The Best Medicines for Health.
 Request <br> Vaccination
 
 .delivery__patients
-<span>324</span> Patients
+<span>326</span> Patients
 
 .button__dark
 Request
