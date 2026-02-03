@@ -19,7 +19,7 @@ doctor and health professional.
 Get Started
 
 .home__name
-Dr. Myla Harts
+Dr. Disha Shetty
 
 .home__profession
 Bones Specialist
