@@ -978,6 +978,8 @@ footer__logo i{
     width: 280px;
   }
 }
+/*comment*/
+
 @media screen and (max-width: 330px){
   .home__title{
     font-size: 1.8rem;
