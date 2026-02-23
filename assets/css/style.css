@@ -964,6 +964,8 @@ footer__logo i{
   bottom: 3rem;
 }
 
+/**/
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and (max-width: 360px){
