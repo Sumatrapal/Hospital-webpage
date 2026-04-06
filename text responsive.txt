@@ -53,7 +53,7 @@ Request <br> Vaccination
 
 .delivery__patients
 <span>326</span> Patients
-...
+
 .button__dark
 Request
 
