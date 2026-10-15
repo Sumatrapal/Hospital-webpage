@@ -57,7 +57,6 @@ Request <br> Vaccination
 .button__dark
 Request
 
-ffg
 
 ========== ABOUT US ==========
 .section__title
